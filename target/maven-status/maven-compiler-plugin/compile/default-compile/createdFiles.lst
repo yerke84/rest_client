@@ -1,6 +1,10 @@
 rest_client_ignore_cert/restClientIgnoreCertClass$1.class
 rest_client/testRestClientClass.class
+file/works/FileWork$2.class
 rest_client_ignore_cert/restClientIgnoreCertClass$2.class
 rest_client/restClientClass.class
+file/works/FileWork$1.class
+file/works/FileWork.class
 rest_client_ignore_cert/restClientIgnoreCertClass.class
+file/works/testFile.class
 rest_client_ignore_cert/testRestClientIgnoreCertClass.class
